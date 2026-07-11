@@ -1,0 +1,32 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EAF4E0"/>
+      <stop offset="100%" stop-color="#D3E4C3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- subtle map-pin / node motif, echoing ResQMap -->
+  <g opacity="0.35">
+    <circle cx="120" cy="60" r="5" fill="#4C6B45"/>
+    <circle cx="220" cy="110" r="4" fill="#4C6B45"/>
+    <circle cx="1080" cy="70" r="6" fill="#4C6B45"/>
+    <circle cx="990" cy="200" r="4" fill="#4C6B45"/>
+    <circle cx="150" cy="220" r="4" fill="#4C6B45"/>
+    <line x1="120" y1="60" x2="220" y2="110" stroke="#4C6B45" stroke-width="1.5"/>
+    <line x1="1080" y1="70" x2="990" y2="200" stroke="#4C6B45" stroke-width="1.5"/>
+  </g>
+
+  <text x="600" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="600" fill="#233720" text-anchor="middle" letter-spacing="2">
+    Zainab Rashid
+  </text>
+
+  <text x="600" y="185" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#4C6B45" text-anchor="middle" letter-spacing="1">
+    AI/ML Engineer — building systems that read signal from noise
+  </text>
+
+  <!-- thin accent rule -->
+  <rect x="500" y="205" width="200" height="2" fill="#7DAA6A"/>
+</svg>
