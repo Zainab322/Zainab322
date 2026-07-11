@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0B1120,100:1E3A5F&height=180&section=header&text=ZAINAB%20RASHID&fontSize=38&fontColor=E0E7FF&fontAlignY=45&desc=AI/ML%20Engineer%20building%20systems%20that%20read%20signal%20from%20noise&descAlignY=68&descSize=15&descColor=93C5FD" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 </div>
 
@@ -15,8 +15,6 @@ I graduated from FAST-NUCES with a Silver Medal, and I care more about whether s
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Zainab322/Zainab322/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sup>↑ live contribution graph, animated — see setup note below</sup>
 
 </div>
 
@@ -50,15 +48,15 @@ Retrieval-augmented generation over medical sources using LangChain and FAISS, b
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=93C5FD)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B1120?style=flat-square&logo=pytorch&logoColor=93C5FD)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-0B1120?style=flat-square&logo=huggingface&logoColor=93C5FD)
-![LangChain](https://img.shields.io/badge/LangChain-0B1120?style=flat-square&logo=langchain&logoColor=93C5FD)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1120?style=flat-square&logo=typescript&logoColor=93C5FD)
-![React](https://img.shields.io/badge/React-0B1120?style=flat-square&logo=react&logoColor=93C5FD)
-![Node.js](https://img.shields.io/badge/Node.js-0B1120?style=flat-square&logo=nodedotjs&logoColor=93C5FD)
-![Firebase](https://img.shields.io/badge/Firebase-0B1120?style=flat-square&logo=firebase&logoColor=93C5FD)
-![Postman](https://img.shields.io/badge/Postman-0B1120?style=flat-square&logo=postman&logoColor=93C5FD)
+![Python](https://img.shields.io/badge/Python-7DAA6A?style=flat-square&logo=python&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/PyTorch-7DAA6A?style=flat-square&logo=pytorch&logoColor=ffffff)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-7DAA6A?style=flat-square&logo=huggingface&logoColor=ffffff)
+![LangChain](https://img.shields.io/badge/LangChain-7DAA6A?style=flat-square&logo=langchain&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-7DAA6A?style=flat-square&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-7DAA6A?style=flat-square&logo=react&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-7DAA6A?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-7DAA6A?style=flat-square&logo=firebase&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-7DAA6A?style=flat-square&logo=postman&logoColor=ffffff)
 
 </div>
 
@@ -66,8 +64,8 @@ Retrieval-augmented generation over medical sources using LangChain and FAISS, b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zainab322&show_icons=true&hide_border=true&count_private=true&bg_color=0B1120&title_color=93C5FD&icon_color=93C5FD&text_color=E0E7FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab322&layout=compact&hide_border=true&bg_color=0B1120&title_color=93C5FD&text_color=E0E7FF" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zainab322&show_icons=true&hide_border=true&count_private=true&bg_color=EAF4E0&title_color=233720&icon_color=4C6B45&text_color=233720" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab322&layout=compact&hide_border=true&bg_color=EAF4E0&title_color=233720&text_color=233720" width="30%" />
 
 </div>
 
@@ -75,12 +73,12 @@ Retrieval-augmented generation over medical sources using LangChain and FAISS, b
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=flat-square&logo=linkedin&logoColor=93C5FD)](your-linkedin-url)
-[![Medium](https://img.shields.io/badge/Medium-0B1120?style=flat-square&logo=medium&logoColor=93C5FD)](your-medium-url)
-[![Email](https://img.shields.io/badge/Email-0B1120?style=flat-square&logo=gmail&logoColor=93C5FD)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7DAA6A?style=flat-square&logo=linkedin&logoColor=ffffff)](your-linkedin-url)
+[![Medium](https://img.shields.io/badge/Medium-7DAA6A?style=flat-square&logo=medium&logoColor=ffffff)](your-medium-url)
+[![Email](https://img.shields.io/badge/Email-7DAA6A?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:your-email@example.com)
 
 </div>
 
-<sub align="center">Currently exploring roles in AI/ML and software engineering.</sub>
+<p align="center"><sub>Currently exploring roles in AI/ML and software engineering.</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1E3A5F,100:0B1120&height=100&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%"/>
